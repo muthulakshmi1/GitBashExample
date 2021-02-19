@@ -6,6 +6,4 @@ public class HelloWorld {
       ;
   asd
 
-	kjkjsadkj;sda
-	joj;oalsjd;ojag;okakgpkap
 }
